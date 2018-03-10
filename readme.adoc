@@ -1,4 +1,5 @@
 = Project specification
+
 Germany is a beautiful green country. The downside is high humidity. German houses are all equipped with heavy windows which do a decent job of heat isulation. This also makes the humidity tobe kept in the room. If the air is not enough ventilated, the himidity in room causes mold to form on the corners. The mold is very stubborn and hard to remove. To prevent the mold, the windows should be left open in regular periods. Forgetting to do so, can lead to disaster.
 
 The idea is to make a device which measured the himidity, and alarms when the windows need to be opened.
