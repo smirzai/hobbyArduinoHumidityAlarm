@@ -4,3 +4,9 @@ Germany is a beautiful green country. The downside is high humidity. German hous
 
 The idea is to make a device which measured the himidity, and alarms when the windows need to be opened.
 
+= Parts List
+
+* http://www.robototehnika.ru/file/DHT12.pdf[DHT12]
+DHT is the heart of system. It senses temperature and humidity. The communication is done via I2C protocol. I am using https://github.com/Bobadas/DHT12_library_Arduino[Bobadas' library to read the sensor]
+
+
